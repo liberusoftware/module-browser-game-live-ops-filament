@@ -3,7 +3,7 @@
   "name": "browser-game-live-ops-filament",
   "display_name": "Browser Game LiveOps Filament",
   "description": "Filament 5 live-ops catalog resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\LiveOpsFilament\\LiveOpsFilamentServiceProvider",
   "requires": {
